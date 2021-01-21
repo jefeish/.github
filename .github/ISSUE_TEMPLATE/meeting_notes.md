@@ -1,5 +1,5 @@
 ---
-name: Task
+name: meeting notes
 about: This template can be used to collect meeting notes
 
 ---
